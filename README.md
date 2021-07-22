@@ -1,7 +1,5 @@
 ## Algorithmie
 
-Exercices visant à apprendre l'algorithmie.
-
 ### Sudoku
 Créer un script qui affiche la solution du sudoku passé en premier argument.
 
