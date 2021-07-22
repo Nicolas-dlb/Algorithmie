@@ -5,7 +5,7 @@ Exercices visant à apprendre l'algorithmie.
 ### Sudoku
 Créer un script qui affiche la solution du sudoku passé en premier argument.
 
-### Reactangle
+### Rectangle
 Créer un script qui affiche la position du carré passé en premier argument dans le carré du
 second argument.
 
