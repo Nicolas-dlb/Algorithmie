@@ -25,7 +25,7 @@ Créer un script qui affiche une pyramide en fonction du premier argument.
 
 ### Tri
 Créer un script qui affiche les valeurs qui lui sont passées en argument triées par ordre
-décroissant.
+décroissant.  
 Bonus : implémenter plusieurs algorithme de tri (tri à bulle, tri sélectif, ... )
 
 ### Annagrammes 
