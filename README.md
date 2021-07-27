@@ -1,4 +1,4 @@
-## Algorithmie
+## Exercices d'algorithmie
 
 ### Sudoku
 Créer un script qui affiche la solution du sudoku passé en premier argument.
